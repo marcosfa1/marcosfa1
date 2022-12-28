@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Marcos Filipe
 
 - 🔭 Hoje trabalho com Dev Full-Stack
-- 🌱 Estudando Javascript - Reactjs, Nodejs, typescript
+- 🌱 Estudando Javascript, typescript - Reactjs e Nodejs
 
 <div align="center">
   <a href="https://github.com/marcosfa1">
