@@ -1,4 +1,4 @@
-### Olá! Eu sou o Marcos Filipe
+### Hi! I'm Filipe
 
-- 🔭 Hoje trabalho com Dev Front End
-- 🌱 Estudando Javascript, typescript - Reactjs e Nodejs
+- 🔭 I currently work with Dev Front End
+- 🌱 I am currently studying Javascript programming language, typescript - Reactjs
